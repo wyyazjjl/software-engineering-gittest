@@ -9,7 +9,7 @@
 #define PORT 12345
 #define BUFFER_SIZE 1024
 #define SERVER_IP "127.0.0.1"
-
+//B3-1 我刚刚改的东西怎么消失了啊
 /**
  * 从服务器接收消息
  * @param server_socket 服务器的套接字值
