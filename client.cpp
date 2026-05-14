@@ -9,7 +9,7 @@
 #define PORT 12345
 #define BUFFER_SIZE 1024
 #define SERVER_IP "127.0.0.1"
-
+//C4-1
 /**
  * 从服务器接收消息
  * @param server_socket 服务器的套接字值
