@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-任务一图表：数据已硬编码（来自一次实测 summary.csv），无需读 CSV。
-在 Windows 上：pip install matplotlib 后运行 python plot_task1.py
-图片保存目录：与本脚本同级的 figures/task1/
+删掉的东西倒是回来了
 """
 
 from pathlib import Path

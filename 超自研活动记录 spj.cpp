@@ -77,7 +77,7 @@ int main(int cmdline_num, char* cmdline[])//spj�Ƚ�ģʽ
 				{
 					return 2;
 				}
-			}//�����жϣ�ȷ�����������ԭ���е�һ������
+			}//B3-4
 		}
 	}
 	return 0;
